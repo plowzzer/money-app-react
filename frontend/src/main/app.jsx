@@ -1,3 +1,6 @@
+//Carregando as dependencias do template
+import '../common/template/dependencies'
+
 import React from 'react'
 
 export default props => (
